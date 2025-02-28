@@ -14,7 +14,7 @@ Para facilitar a correção, **cada branch corresponde a uma atividade**, seguin
 
 Para acessar o código de uma atividade específica, siga os passos abaixo:
 
-1. **Clone o repositório (se ainda não fez):**
+1. **Clonando o repositório da atividade 1:**
    ```sh
    git clone --branch atividade/1 https://github.com/Caioliu/estrutura-de-dados.git 
 
